@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Poppins&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
     font-family: "Poppins", san-serif;
     font-weight: 350;
