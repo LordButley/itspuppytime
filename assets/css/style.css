@@ -16,7 +16,7 @@ body {
     font-family: "Hachi Maru Pop", sans-serif;
     float:left;
     font-size:200%;
-    color:#4650d1;
+    color:#c86d29;
 }
 
 #menu {
@@ -38,9 +38,10 @@ body {
     line-height: 50px;
 }
 
-#hero-image {
-    background: url("../images/pexels-eddie-galaxy-3628100.jpg") center no-repeat;
+ #hero-image {
+    position:relative;
+} 
+
+#hero-image img {
     width:100%;
-    height: 1000px;
-    background-size: contain;
 }
