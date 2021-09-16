@@ -16,7 +16,7 @@ body {
     font-family: "Hachi Maru Pop", sans-serif;
     float:left;
     font-size:200%;
-    color:#c86d29;
+    color:#d3b86e;
 }
 
 #menu {
@@ -24,6 +24,7 @@ body {
 }
 
 #menu li {
+    color: #d3b86e;
     list-style-type: none;
     display:inline;
     margin-inline: 5px;
@@ -44,4 +45,13 @@ body {
 
 #hero-image img {
     width:100%;
+}
+
+.navbar {
+    background-color: #25311d;
+    width:100%;
+    height: 50px;
+    position:fixed;
+    top: 0;
+    z-index: 50;
 }
