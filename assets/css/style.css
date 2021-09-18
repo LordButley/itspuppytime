@@ -10,6 +10,7 @@ body {
     font-family: "Poppins", san-serif;
     font-weight: 350;
     color:#d3b86e;
+
 }
 
 h1, h2 {
@@ -108,9 +109,9 @@ h1, h2 {
 }
 
 hr {
-    height: 50px;
+    height: 70px;
     width: 100%;
-    background-image: url("../images/divider.jpg") repeat;
-    background-size: cover;
-
+    background-size: contain;
+    background-image: url("../images/divider.jpg");
+    /* margin: 10px 0; */
 }
