@@ -10,7 +10,7 @@ body {
     font-family: "Poppins", san-serif;
     font-weight: 350;
     color:#d3b86e;
-    padding-top: 50px;
+    margin-top: 50px;
     /* background-color: #EAF6E2; */
 
 }
@@ -143,4 +143,41 @@ footer i {
     border-radius: 50px;
     text-align:center;
     margin: auto;
+}
+
+.info-container {
+    width:90%;
+    /* padding: 50px 0; */
+    border-radius: 50px;
+    color:#25311d;
+    /* background: #25311d; */
+    height:500px;
+    box-sizing: border-box;
+    margin-left: 5%;
+    margin-right: 5%;
+    display:flex;
+    justify-content:space-between;
+}
+
+.info-container-image {
+    width:33%;
+    height:100%;
+    /* display:inline; */
+}
+   
+
+.info-container-image img {
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: 50px 0 0 50px;
+
+}
+
+.info-container-content {
+    padding-left:50px;
+    width:67%;
+    height:100%;
+    
 }
