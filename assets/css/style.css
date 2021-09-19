@@ -17,6 +17,7 @@ h1, h2 {
     font-family:"Hachi Maru Pop", sans-serif;
     text-align:center;
     color: #d3b86e;
+    padding: 5px;
     
 }
 #logo { 
@@ -119,4 +120,13 @@ footer i {
     font-size: x-large;
     padding: 5px;
     margin: 5px;
+}
+
+#contact-us-container {
+    width: 450px;
+    height: 450px;
+    background-color: #25311d;
+    border-radius: 50px;
+    text-align:center;
+    margin: auto;
 }
