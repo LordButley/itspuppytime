@@ -10,6 +10,8 @@ body {
     font-family: "Poppins", san-serif;
     font-weight: 350;
     color:#d3b86e;
+    padding-top: 50px;
+    /* background-color: #EAF6E2; */
 
 }
 
@@ -41,15 +43,20 @@ h1, h2 {
 #menu a{
     text-decoration: none;
     color:inherit;
+    padding:5px;
+}
+
+#menu a:hover {
+    text-decoration: underline;
 }
 
 #menu, #logo {
     line-height: 50px;
 }
 
- #hero-image {
+ /* #hero-image {
     position:relative;
-} 
+}  */
 
 #hero-image img {
     width:100%;
@@ -61,7 +68,13 @@ h1, h2 {
     height: 50px;
     position:fixed;
     top: 0;
-    z-index: 50;
+    /* z-index: 50; */
+}
+
+.current-page {
+    background-color: #d3b86e;
+    color:#25311d !important;
+    border-radius: 5px;
 }
 
 #chapter-container-outside {
@@ -124,7 +137,7 @@ footer i {
 
 #contact-us-container {
     width: 450px;
-    height: 450px;
+    height: 225px;
     background-color: #25311d;
     border-radius: 50px;
     text-align:center;
