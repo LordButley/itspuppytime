@@ -24,7 +24,8 @@ h1, h2 {
 }
 #logo { 
     float:left;
-    font-size:250%;
+    font-size:xx-large;
+    padding:0px !important;
     
 }
 
