@@ -171,7 +171,8 @@ footer i {
     height:100%;
     object-fit: cover;
     overflow: hidden;
-    border-radius: 50px 0 0 50px;
+    /* border-radius: 50px 0 0 50px; */
+    border-radius: 50px;
 
 }
 
@@ -179,5 +180,6 @@ footer i {
     padding-left:50px;
     width:67%;
     height:100%;
+    text-align: center;
     
 }
