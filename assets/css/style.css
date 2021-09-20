@@ -20,6 +20,8 @@ h1, h2 {
     text-align:center;
     color: #d3b86e;
     padding: 5px;
+    padding-bottom: 15px;
+    
     
 }
 #logo { 
@@ -195,7 +197,7 @@ footer i {
 }
 
 .info-container-content {
-    padding-top: 50px;
+    /* padding-top: 50px; */
     /* padding-left:50px; */
     width:67%;
     height:100%;
@@ -235,4 +237,8 @@ button a {
 .inner-page {
     max-width: 1920px;
     margin:auto;
+}
+
+.shopping-list {
+    column-count: 2;
 }
