@@ -172,7 +172,6 @@ footer i {
     overflow: hidden;
     /* border-radius: 50px 0 0 50px; */
     border-radius: 50px;
-
 }
 
 .info-container-content {
@@ -182,5 +181,20 @@ footer i {
     height:100%;
     text-align: center;
     list-style-position: inside;
-    
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    background-color: #d3b86e;
+    color:#25311d;
+    border-radius: 15px;
+}
+
+button a {
+    text-decoration: none;
+    color:#25311d;
+    font-family: "Poppins", san-serif;
+    font-weight: bold;
+    font-size: large;
 }
