@@ -26,7 +26,6 @@ h1, h2 {
     float:left;
     font-size:xx-large;
     padding:0px !important;
-    
 }
 
 #menu {
@@ -177,9 +176,11 @@ footer i {
 }
 
 .info-container-content {
+    padding-top: 50px;
     padding-left:50px;
     width:67%;
     height:100%;
     text-align: center;
+    list-style-position: inside;
     
 }
