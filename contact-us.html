@@ -47,6 +47,7 @@
 
     <h1>Contact us</h1>
     <hr>
+
     <div class="info-container">
         <div class="contact-us-image">
             <img src="assets/images/contact-us-cropped.jpg">
@@ -54,23 +55,34 @@
     </div>
     <hr>
 
+    <div class="inner-page">
+
     <section>
-        <form method="POST" action="https://formdump.codeinstitute.net/">
+        <form class="contact-us-form" method="POST" action="https://formdump.codeinstitute.net/">
             <h2>Contact Us</h2>
-            <p>Reasons to contact us</p>
+            <p>Here at "Its Puppy Time", we know that every puppy is different and every puppy parent has a different experience. We love to hear from you regarding all the wonderful ways you have addressed all the hurdles of puppy care. Feedback is also always welcome. Looking forward to hearing from you!</p>
             
+            <div id="left-column">
             <label for="forename" type= "text">First Name</label>
             <input id="forename" name="forename" required>
-            <label for="surname" type= "text">Surname</label>
-            <input id="surname" name="surname" required>
+            <br>
             <label for="email" type= "email">Email Address</label>
             <input id="email" name="surname" required>
+            </div>
+            <div id="right-column"></div>
+            <label for="surname" type= "text">Surname</label>
+            <input id="surname" name="surname" required>
+            <br>
+            <label for="breed" type= "text">Dog Breed</label>
+            <input id="breed" name="dog_breed" required>
+            </div>
+
             <label for="message" type="textarea">Message</label>
             <input id="message" name="surname" required>
         </form>
     </section>
 
-
+    </div>
     <hr>
     <footer>
         <ul>

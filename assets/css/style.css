@@ -242,3 +242,15 @@ button a {
 .shopping-list {
     column-count: 2;
 }
+
+.contact-us-form {
+    width: 900px;
+    margin:auto;
+    background-color: #25311d;
+    border-radius: 50px;
+}
+
+#left-column {
+    width: 450px;
+    float:left;
+}
