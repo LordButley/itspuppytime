@@ -253,4 +253,29 @@ button a {
 #left-column {
     width: 450px;
     float:left;
+    padding: 1%;
+    box-sizing: border-box;
+}
+
+#right-column {
+    width: 450px;
+    float: right;
+    padding: 1%;
+    box-sizing: border-box;
+}
+
+.contact-us-form input {
+    width:100%;
+    border: 1px solid #d3b86e;
+    border-radius: 5%;
+}
+
+#feedback {
+    width:66%;
+    margin:auto;
+    padding-bottom: 25px;
+}
+
+#feedback input {
+    height:5em;
 }
