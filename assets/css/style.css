@@ -18,8 +18,8 @@ h1, h2 {
     font-family:"Hachi Maru Pop", sans-serif;
     text-align:center;
     color: #d3b86e;
-    padding: 5px;
-    padding-bottom: 15px;
+    padding: 5px 5px 15px 5px;
+    /* padding-bottom: 15px; */
     
     
 }
@@ -102,6 +102,10 @@ h1, h2 {
 .chapter-container-inside div {
     /* width: 450px; */
     height: 450px;
+}
+
+p {
+    padding: 0 5px;
 }
 
 .chapter-image img {
