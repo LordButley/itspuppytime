@@ -111,6 +111,7 @@ p {
     border-radius: 50px;
     text-align:center;
     margin: auto;
+    
 }
 
 @media screen and (max-width:450px){
@@ -359,4 +360,16 @@ button a {
     .navbar {
         height:150px;
     }
+}
+
+@media screen and (max-width: 450px){
+
+    .chapter-container-inside {
+        border-radius: 0;
+    }
+
+    .chapter-image img {
+        border-radius:0;
+    }
+
 }
