@@ -364,12 +364,28 @@ button a {
 
 @media screen and (max-width: 450px){
 
+    .navbar {
+        position: static;
+    }
+
+    body{
+        margin-top: 0;
+    }
+
     .chapter-container-inside {
         border-radius: 0;
     }
 
     .chapter-image img {
         border-radius:0;
+    }
+
+}
+
+@media screen and (max-width: 342px){
+
+    .navbar {
+        height: 200px;
     }
 
 }
