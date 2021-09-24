@@ -102,6 +102,8 @@ p {
     border-radius: 50px;
     text-align:center;
     margin: 5px;
+    /* margin: auto; */
+
 }
 
 #contact-us-container {
@@ -112,14 +114,6 @@ p {
     text-align:center;
     margin: auto;
     
-}
-
-@media screen and (max-width:450px){
-    .chapter-container-inside, #contact-us-container{ 
-        width:100%;
-        margin:0;
-    }
-
 }
 
 .chapter-container-inside div {
@@ -137,9 +131,16 @@ p {
 hr {
     height: 70px;
     width: 100%;
+    /* width:100vw; */
     background-size: contain;
     background-image: url("../images/divider.jpg");
 }
+
+.small-vp-hr {
+    display:none;
+}
+
+
 
 footer {
     background-color: #25311d;
@@ -363,6 +364,11 @@ button a {
 }
 
 @media screen and (max-width: 450px){
+    
+    .chapter-container-inside, #contact-us-container{ 
+        width:100%;
+        margin:0;
+    }
 
     .navbar {
         position: static;
@@ -378,6 +384,14 @@ button a {
 
     .chapter-image img {
         border-radius:0;
+    }
+
+    .small-vp-hr {
+        display:block
+    }
+
+    .large-vp-hr {
+        display:none;
     }
 
 }
