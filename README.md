@@ -4,7 +4,7 @@
 
 "It's Puppy Time" is a one-stop shop for all your puppy orientated questions. It is an information website targetted at prospective and new puppy parents. It aims to make welcoming a puppy into the family easy by providing answers to queries and concerns regarding what to do and what to expect.
 
-## UX
+# UX
 
 ### User Stories
 
@@ -19,5 +19,19 @@
 * As a user, I want to know what to do in the weeks after getting a puppy
 * As a user, I want to be able to contact the website
 
+## Project Goals
 
+* Create a user-friendly and accessible website
+* Create a familiar feeling website that leaves leaves a positive feeling
+* Provide the user with useful information
+* Divide the information into well thought out sections allowing the user to quickly find what they need
+* Ensure the website is viewable across devices of all sizes.
+
+### Target Audience
+
+The target audience of this website is any person who :
+
+* is considering getting a puppy to help them decide
+* has decided to get a puppy to help them prepare
+* has got a puppy and wants advice of what to expect and what to do
 
