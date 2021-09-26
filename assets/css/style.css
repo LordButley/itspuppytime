@@ -27,6 +27,8 @@ h1, h2 {
 h2 {
     background-color: #25311d;
     border-radius: 50px;
+    /* width:50%; */
+    margin:auto;
 }
 
 p {
