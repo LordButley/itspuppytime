@@ -143,13 +143,13 @@ hr {
     display:none;
 }
 
-/* .full-width {
+.full-width {
     width:200vw;
-    position:absolute;
-    left:0; 
+    /* position:absolute;
+    left:0;  */
     margin-left: -50vw;
     margin-right: -50vw;
-} */
+}
 
 
 
