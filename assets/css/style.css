@@ -31,7 +31,8 @@ p {
 .outer-page {
     position:relative;
     min-height:100vh;
-    margin-top: 3rem;
+    padding-top: 3rem;
+    box-sizing:border-box;
 }
 
 .inner-pages {
@@ -277,7 +278,7 @@ button a {
     font-size: large;
 }
 
-.inner-page {
+.content-container {
     max-width: 1920px;
     margin:auto;
     /* min-height:97rem; */
