@@ -191,6 +191,8 @@ footer i {
 }
 
 .info-container {
+    max-width: 1920px;
+    margin:auto;
     width:90%;
     /* padding: 50px 0; */
     border-radius: 50px;
@@ -198,8 +200,8 @@ footer i {
     /* background: #25311d; */
     /* height:500px; */
     box-sizing: border-box;
-    margin-left: 5%;
-    margin-right: 5%;
+    /* margin-left: 5%;
+    margin-right: 5%; */
     display:flex;
     justify-content:space-between;
 }
@@ -207,8 +209,8 @@ footer i {
 .info-container-image {
     width:33%;
     height:352.14px;
-    display:flex;
-    justify-content: center;
+    /* display:flex;
+    justify-content: center; */
     /* vertical-align:middle; */
     /* display:inline; */
 }
@@ -277,14 +279,14 @@ button a {
     font-weight: bold;
     font-size: large;
 }
-
+/* 
 .content-container {
     max-width: 1920px;
     margin:auto;
-    /* min-height:97rem; */
-    /* min-height: 90vh; */
-    /* padding-bottom: 250px; */
-}
+    min-height:97rem; 
+    min-height: 90vh; 
+    padding-bottom: 250px;
+} */
 
 .shopping-list {
     column-count: 2;
