@@ -24,6 +24,11 @@ h1, h2 {
     padding: 5px 5px 15px 5px;
 }
 
+h2 {
+    background-color: #25311d;
+    border-radius: 50px;
+}
+
 p {
     padding: 0 5px;
 }
@@ -321,18 +326,18 @@ button a {
 .contact-us-form input {
     width:100%;
     border: 1px solid #d3b86e;
-    border-radius: 5%;
+    /* border-radius: 5%; */
     height:2rem;
 }
 
 #feedback {
-    width:66%;
+    width:50%;
     margin:auto;
     padding-bottom: 25px;
 }
 
 #feedback input {
-    height:5em;
+    height:10rem;
 }
 
 .contact-us-form hr {
