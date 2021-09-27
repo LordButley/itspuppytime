@@ -409,6 +409,10 @@ button a {
     .contact-us-form {
         border-radius: 0;
     }
+    
+    /* .shopping-list {
+        column-count: 1;
+    } */
 }
 
 @media screen and (max-width: 595px){
@@ -419,6 +423,10 @@ button a {
 
     .navbar {
         height:150px;
+    }
+
+    .shopping-list {
+        column-count: 1;
     }
 }
 
