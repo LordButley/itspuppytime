@@ -51,6 +51,9 @@ Next Steps: Contains information regarding what to do with a puppy in the weeks 
 Contact us: Gives users opportunity to provide feedback on the website or tell us their own experiences of getting a puppy.
 
 #Skeleton
+
+The initial ideas were taken from the structure planning and a visual mock up was created using Balsamiq. Mobile, Tablet, and Desktop wireframes are all available [here.](wireframes/wireframes.pdf)
+
 #Surface
 -colour
 -language/tone
