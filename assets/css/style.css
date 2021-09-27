@@ -39,7 +39,7 @@ p {
 .outer-page {
     position:relative;
     min-height:100vh;
-    /* padding-top: 3rem; */
+    padding-top: 3rem;
     box-sizing:border-box;
 }
 
@@ -212,11 +212,12 @@ footer i {
     margin-right: 5%; */
     display:flex;
     justify-content:space-between;
+    align-items: center;
 }
 
 .info-container-image {
-    width:33%;
-    height:352.14px;
+    width:40%;
+    /* height:352.14px; */
     /* display:flex;
     justify-content: center; */
     /* vertical-align:middle; */
@@ -237,20 +238,22 @@ footer i {
 .info-container ul {
     padding-top:1rem;
     padding-bottom:1rem;
+    width:66%;
+    margin:auto;
 
 }
 
 .info-container-content {
     /* padding-top: 50px; */
     /* padding-left:50px; */
-    width:67%;
+    width:50%;
     height:100%;
     /* text-align: center; */
   
 }
 
 .info-container-content li {
-    list-style-position: inside;
+    /* list-style-position: inside; */
     list-style-type: circle;
 }
 
@@ -304,6 +307,7 @@ button a {
 
 .shopping-list {
     column-count: 2;
+
 }
 
 .contact-us-form {
