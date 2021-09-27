@@ -390,6 +390,10 @@ button a {
         margin-top: 100px;
     }
 
+    .outer-page {
+        padding-top:0;
+    }
+
     .navbar {
         height:100px;
     }
