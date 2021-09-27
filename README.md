@@ -52,7 +52,12 @@ Contact us: Gives users opportunity to provide feedback on the website or tell u
 
 ## Skeleton
 
-The initial ideas were taken from the structure planning and a visual mock up was created using Balsamiq. Mobile, Tablet, and Desktop wireframes are all available [here.](wireframes/wireframes.pdf)
+The initial ideas were taken from the structure planning and a visual mock up was created using Balsamiq. Mobile, Tablet, and Desktop wireframes are all available [here.](wireframes/wireframes.pdf).
+
+There were improvements made to the structure from the wireframes to improve the user experience. These were :
+
+- Changes to headings/titles
+- The navigation bar does not stick on small screens as it takes up too much screen space.
 
 ## Surface
 
@@ -80,8 +85,43 @@ The tone through-out is designed to be fun but concise. The information is given
 
 The pre-requisite for all images is that they needed to be of puppies! Once this key condition was met, the background colours in the photo needed to be earthy tones or light natural tones. This was to ensure consistency throughout.
 
+### Layout
 
+As the website is solely for the dissemination of information, I believed it was better created across multiple pages to represent the clearly defined chapters. This would prevent the user from being overloaded by text whilst allowing easier navigation.
 
+## Features
+
+### Existing Features
+
+### Universal Features
+
+#### Header
+
+- Logo "It's Puppy Time" in large unmissable font sets the tone of the website.
+- Navigation bar - Allows users to quickly see what content is available on the website and then navigate where they want is a simple, familiar and intuitive way. The current page is highlighted whilst the links are underlined when the cursor is on top. 
+- Header is sticky on large devices but loses it's "stickiness" on smaller screens where you have less screen estate.
+
+#### Footer
+
+- The Footer contains links to the "It's Puppy Time" social media websites. These open to a new tab upon click. The footer is set to stick once it becomes fully visible on the page. This was created to prevent the footer floating in the middle of the page.
+
+#### Vertial dividers
+
+- Paw prints are used to separate all content vertically. There are additional paw prints throughout the homepage which are set to display:none which activate at smaller screens. These divide content into bitsize sections whilst keeping maintaining the style of the website.
+
+### Home Page
+
+- Hero image - Large image with two puppies sitting centrally is used to give users an immediate feeling of happiness and also show instantly what the website is about. The colour identity of the website is established between the header and the hero photo.
+
+- Page summary tiles - Tiles were used to represent each different page. These tiles contained an image, the section title and a short summary of what will be found on that page. 
+- Contact tile - A smaller tile was chosen without an image as it is not the main purpose behind people visiting the website and so should not be the focus. This is in keeping with web norms.
+
+### Preparation / Arrival Day / Next Steps
+
+- Each of these pages contains the same layout in keeping with good user experience.
+- The header, footer and vertical dividers detailed above
+- A container with an image on the left, a header and content on the right.
+- A container with an image on the right, a header and content on the left.
 
 
 # Possible future developments.
