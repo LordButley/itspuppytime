@@ -2,6 +2,8 @@
 
 "It's Puppy Time" is a one-stop shop for all your puppy orientated questions. It is an information website targetted at prospective and new puppy parents. It aims to make welcoming a puppy into the family easy by providing answers to queries and concerns regarding what to do and what to expect. As a relatively new puppy owner myself, I found that although all the information regarding puppy care is online, it is dispersed through-out. Thus my recent experiences and my puppy Pickle became the inspiration behind the creation of an easy to use website dedicated to puppy care.
 
+![Am I Responsive image of how the landing page looks across different browser sizes](images/responsivescreens.jpg)
+
 # UX
 
 ## User Stories
@@ -113,8 +115,9 @@ As the website is solely for the dissemination of information, I believed it was
 
 - Hero image - Large image with two puppies sitting centrally is used to give users an immediate feeling of happiness and also show instantly what the website is about. The colour identity of the website is established between the header and the hero photo.
 
-- Page summary tiles - Tiles were used to represent each different page. These tiles contained an image, the section title and a short summary of what will be found on that page. Each tile contains a button to take you to the relevant page.
-- Contact tile - A smaller tile was chosen without an image as it is not the main purpose behind people visiting the website and so should not be the focus. This is in keeping with web norms. The tile has a button to take you to the contact us page.
+- Page summary tiles - Tiles were used to represent each different page. These tiles contained an image, the section title and a short summary of what will be found on that page. Each tile contains a button to take you to the relevant page. The tiles have curved corners for a softer looker. The curved edges are removed for smaller viewports.
+
+- Contact tile - A smaller tile was chosen without an image as it is not the main purpose behind people visiting the website and so should not be the focus. This is in keeping with web norms. The tile has a button to take you to the contact us page. The tiles have curved corners for a softer looker. The curved edges are removed for smaller viewports.
 
 ### Preparation / Arrival Day / Next Steps
 
