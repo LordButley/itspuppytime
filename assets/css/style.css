@@ -435,6 +435,7 @@ button a {
     .chapter-container-inside, #contact-us-container{ 
         width:100%;
         margin:0;
+        border-radius:0;
     }
 
     .navbar {
