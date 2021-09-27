@@ -1,6 +1,6 @@
 # It’s Puppy Time
 
-"It's Puppy Time" is a one-stop shop for all your puppy orientated questions. It is an information website targetted at prospective and new puppy parents. It aims to make welcoming a puppy into the family easy by providing answers to queries and concerns regarding what to do and what to expect.
+"It's Puppy Time" is a one-stop shop for all your puppy orientated questions. It is an information website targetted at prospective and new puppy parents. It aims to make welcoming a puppy into the family easy by providing answers to queries and concerns regarding what to do and what to expect. As a relatively new puppy owner myself, I found that although all the information regarding puppy care is online, it is dispersed through-out. Thus my recent experiences and my puppy Pickle became the inspiration behind the creation of an easy to use website dedicated to puppy care.
 
 # UX
 
@@ -26,7 +26,7 @@
 * Ensure the website is viewable across devices of all sizes.
 * To create a website that would be immediately useful when live but also has scope to be expanded.
 
-### Target Audience
+## Target Audience
 
 The target audience of this website is any person who :
 
@@ -50,17 +50,37 @@ Next Steps: Contains information regarding what to do with a puppy in the weeks 
 
 Contact us: Gives users opportunity to provide feedback on the website or tell us their own experiences of getting a puppy.
 
-# Skeleton
+## Skeleton
 
 The initial ideas were taken from the structure planning and a visual mock up was created using Balsamiq. Mobile, Tablet, and Desktop wireframes are all available [here.](wireframes/wireframes.pdf)
 
-# Surface
+## Surface
 
--colour
--language/tone
--imagery
--layout
--typography
+### Colour Palette
+
+The main colours for the website are a dark green and a light golden yellow. These are colours you would find if you take your dog for walks in any countryside or woodland. I wanted the the colour scheme to help emphasise that getting a puppy is a fun and happy experience but it is also one which must be taken seriously.
+
+- The dark green (#25311d) was chosen as the main background colour as it gives the website a natural earthy feeling. It also gives the website a slightly more luxious and serious feel.  
+
+- The golden yellow (#d3b86e) was chosen for the text as it gives a youthful happiness feel through-out. 
+
+Both of these colours were picked from the hero image for additional consistency using https://imagecolorpicker.com/.
+
+### Typography
+
+I chose font Hachi Maru Pop for all titles. This is an informal and cute handwritten font that works well at larger sizes. It was chosen to represent the fun and playfulness of puppies.
+
+Using Googlefont popular pairings, I found Poppins. This was chosen as it works well with Hachi Maru Pop but has also looks more serious and is easier to read blocks of text.
+
+### Language / Tone
+
+The tone through-out is designed to be fun but concise. The information is given in the imperative tone as it is all important. However fun and casual use of language is chosen to keep with the overall feeling of the website. 
+
+### Imagery
+
+The pre-requisite for all images is that they needed to be of puppies! Once this key condition was met, the background colours in the photo needed to be earthy tones or light natural tones. This was to ensure consistency throughout.
+
+
 
 
 
