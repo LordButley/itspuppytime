@@ -10,11 +10,7 @@ body {
     font-family: "Poppins", san-serif;
     font-weight: 350;
     color:#d3b86e;
-    /* padding-top: 3rem; */
     position: relative;
-    /* height:auto; */
-    /* height:100vh; */
-
 }
 
 h1, h2 {
@@ -27,7 +23,6 @@ h1, h2 {
 h2 {
     background-color: #25311d;
     border-radius: 50px;
-    /* width:50%; */
     margin:auto;
     margin:1rem;
 }
@@ -115,8 +110,6 @@ p {
     width:100%;   
 }
 
-
-
 .chapter-container-inside {
     width: 450px;
     height: 775px;
@@ -124,8 +117,6 @@ p {
     border-radius: 50px;
     text-align:center;
     margin: 5px;
-    /* margin: auto; */
-
 }
 
 #contact-us-container {
@@ -153,8 +144,6 @@ p {
 hr {
     height: 70px;
     width: 100%;
-    /* display: block; */
-    /* width:100vw; */
     background-size: contain;
     background-image: url("../images/divider.jpg");
 }
@@ -165,13 +154,9 @@ hr {
 
 .full-width {
     width:200vw;
-    /* position:absolute;
-    left:0;  */
     margin-left: -50vw;
     margin-right: -50vw;
 }
-
-
 
 footer {
     background-color: #25311d;
@@ -179,7 +164,6 @@ footer {
     height: 100px;  
     bottom: 0;
     position:absolute;
-    /* margin-top:20px; */
 }
 
 footer ul {
@@ -281,7 +265,23 @@ footer i {
     padding-right:50px;
 }
 
-button {
+.button {
+    text-decoration: none;
+    color:#25311d;
+    font-family: "Poppins", san-serif;
+    font-weight: bold;
+    font-size: large;
+    padding:15px;
+    background-color: #d3b86e;
+    color:#25311d;
+    border-radius: 15px;
+}
+
+.button:hover {
+    text-decoration:underline;
+}
+
+/* button {
     width: 150px;
     height: 50px;
     background-color: #d3b86e;
@@ -296,7 +296,7 @@ button a {
     font-family: "Poppins", san-serif;
     font-weight: bold;
     font-size: large;
-}
+} */
 /* 
 .content-container {
     max-width: 1920px;
