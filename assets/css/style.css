@@ -220,16 +220,13 @@ footer i:hover{
 }
 
 .info-container-content {
-    /* padding-top: 50px; */
-    /* padding-left:50px; */
     width:50%;
     height:100%;
-    /* text-align: center; */
+    
   
 }
 
 .info-container-content li {
-    /* list-style-position: inside; */
     list-style-type: circle;
 }
 
@@ -243,11 +240,9 @@ footer i:hover{
     height:100%;
     object-fit: cover;
     overflow: hidden;
-    /* border-radius: 50px 0 0 50px; */
     border-radius: 50px;
     bottom:0;
 }
-
 
 .padding-left {
     padding-left:50px;
@@ -272,31 +267,6 @@ footer i:hover{
 .button:hover {
     text-decoration:underline;
 }
-
-/* button {
-    width: 150px;
-    height: 50px;
-    background-color: #d3b86e;
-    color:#25311d;
-    border-radius: 15px;
-    
-}
-
-button a {
-    text-decoration: none;
-    color:#25311d;
-    font-family: "Poppins", san-serif;
-    font-weight: bold;
-    font-size: large;
-} */
-/* 
-.content-container {
-    max-width: 1920px;
-    margin:auto;
-    min-height:97rem; 
-    min-height: 90vh; 
-    padding-bottom: 250px;
-} */
 
 .shopping-list {
     column-count: 2;
@@ -347,7 +317,6 @@ button a {
 }
 
 #feedback {
-    /* max-width: 450px; */
     width:100%;
     margin:auto;
     height: 6rem;
@@ -366,7 +335,6 @@ textarea {
 .contact-us-form hr {
     filter: invert(100%);
 }
-
 
 @media screen and (max-width:1440px){
     .info-container{
