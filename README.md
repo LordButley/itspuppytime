@@ -40,15 +40,15 @@ As the website is going to be heavy in information and text, it is therefore imp
 
 The section idea was to divide into before getting a puppy, on the day you get a puppy, and after with a homepage. This lead to the following sections:
 
-Home Page: This sets the tone for the whole website in terms of style. Simple to navigate and helps users move to the section of the website they want.
+- Home Page: This sets the tone for the whole website in terms of style. Simple to navigate and helps users move to the section of the website they want.
 
-Preparation: Contains information regarding what to what to do before getting a puppy as well as what to buy
+- Preparation: Contains information regarding what to what to do before getting a puppy as well as what to buy
 
-Puppy Arrival: Contains information regarding how to care for a puppy on the first day you get it as well as the first night.
+- Puppy Arrival: Contains information regarding how to care for a puppy on the first day you get it as well as the first night.
 
-Next Steps: Contains information regarding what to do with a puppy in the weeks and months after getting it
+- Next Steps: Contains information regarding what to do with a puppy in the weeks and months after getting it
 
-Contact us: Gives users opportunity to provide feedback on the website or tell us their own experiences of getting a puppy.
+- Contact us: Gives users opportunity to provide feedback on the website or tell us their own experiences of getting a puppy.
 
 ## Skeleton
 
@@ -165,6 +165,29 @@ As the website is solely for the dissemination of information, I believed it was
 10. Google Developer Tools - including Lighthouse
     - used to constantly test the code and give feedback. 
 
+11. Responsinator 
+
+## Testing
+
+The testing process can be seen in the [TESTING.md](TESTING.md) document.
+
+## 5. Deployment
+
+### Github Pages
+The site is hosted using GitHub pages, deployed directly from the master branch of GitHub. The deployed site will update automatically as new commits are pushed to the master branch.
+
+#### How I deployed my project to GitHub pages.
+To host on GitHub pages you must follow these steps:
+
+1. Go to [GitHub.com](https://github.com/)
+2. Login to my account.
+3. Click on 'Responsitories'
+4. Click on 'itspuppytime'
+5. Go to the 'Settings' tab
+6. Scroll down to the 'GitHub Pages' section and set the source to 'Master Branch'. This turns on GitHub pages for the repository.
+7. Reload the page. Scroll back to 'GitHub Pages' section, where the new URL for the deployed site can be found.
+
+Additional information around these steps can be found on the [GitHub Pages Help Page](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site).
 
 
-# Possible future developments.
+

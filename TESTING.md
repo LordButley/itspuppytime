@@ -64,6 +64,7 @@ In order to ensure that the website is fully responsive across screen sizes, I u
         * Check that the header sticks to the top of the page
         * Check that the header is no longer sticky on smaller viewports
         * Check that the header's height becomes larger to encompass all text at small viewports.
+        * Check that the alignment of text changes for smaller viewports
     
     * Footer - Repeated steps on all pages.
         * Check that the social media links open in a new tab.
