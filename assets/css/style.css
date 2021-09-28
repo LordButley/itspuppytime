@@ -317,7 +317,7 @@ button a {
     max-width: 450px;
     width: 100%;
     float:left;
-    padding: 1%;
+    padding: 0 1%;
     box-sizing: border-box;
 }
 
@@ -325,6 +325,14 @@ button a {
     max-width: 450px;
     width: 100%;
     float: right;
+    padding: 0 1%;
+    box-sizing: border-box;
+}
+
+#center-column {
+    max-width: 450px;
+    width: 100%;
+    margin:auto;
     padding: 1%;
     box-sizing: border-box;
 }
@@ -332,23 +340,33 @@ button a {
 .contact-us-form input {
     width:100%;
     border: 1px solid #d3b86e;
-    /* border-radius: 5%; */
+    padding-left: 0.5rem;
+    box-sizing: border-box;
     height:2rem;
+    margin-bottom: 2%;
 }
 
 #feedback {
-    width:50%;
+    /* max-width: 450px; */
+    width:100%;
     margin:auto;
-    padding-bottom: 25px;
+    height: 6rem;
+    padding: 0.5rem;
+    box-sizing: border-box;
 }
 
-#feedback input {
-    height:10rem;
+.button-container {
+    text-align: center;
+}
+
+textarea {
+    resize: none;
 }
 
 .contact-us-form hr {
     filter: invert(100%);
 }
+
 
 @media screen and (max-width:1440px){
     .info-container{
@@ -399,7 +417,7 @@ button a {
 
 @media screen and (max-width:900px){
 
-    #left-column, #right-column {
+    #left-column, #right-column, #center-column {
         float:none;
         margin:auto;
         max-width: none;
@@ -409,10 +427,6 @@ button a {
     .contact-us-form {
         border-radius: 0;
     }
-    
-    /* .shopping-list {
-        column-count: 1;
-    } */
 }
 
 @media screen and (max-width: 595px){
