@@ -13,9 +13,7 @@
 * As a user, I want to be able to access the website on desktop, tablet and mobile devices, to ensure high convenience.
 * As a user, I want to be able to easily access the social media accounts of "It's Puppy Time" 
 * As a user, I want to gain valuable insight and knowledge on what to do to prepare for a new puppy
-* As a user, I want a list of items to buy for the puppy.
-* As a user, I want to know what to do on the day I pick up the puppy
-* As a user, I want to know what to expect and what to do the first night I have a puppy
+* As a user, I want to know what to expect on the day I pick up the puppy
 * As a user, I want to know what to do in the weeks after getting a puppy
 * As a user, I want to be able to contact the website
 
@@ -167,71 +165,6 @@ As the website is solely for the dissemination of information, I believed it was
 10. Google Developer Tools - including Lighthouse
     - used to constantly test the code and give feedback. 
 
-## Testing
 
- ### HTML
- - No errors were returned when passing through W3C HTML validator.
-
- - W3C (https://validator.w3.org/)
-
- ### CSS
-
- - No errors were returned when passing through W3C CSS validator.
-
-- W3C (https://jigsaw.w3.org/css-validator/validator)
-
-Live site was tested by checking all links across four screen widths.
-
-## User Stories Testing
-      1. As a user visiting the site for the first time, I want to navigate the site intuitively.
-         * A user can navigate to the landing page from any page in the website. Either via the navigation menu, or the logo in keeping with current UX norms
-         * Each of the page links on the navigation bar become underlined when hovered over giving the user feedback.
-         * The current page is highlighted in the navigation menu reminding users what page they are on.
-         * On the homepage, there are highlighted buttons which take you to each relevant section. These also give users feedback by becoming underlined when hovered over. 
-      2. As a user visiting the site for the first time, I want to know what kind of information is available and where to find it easily.
-         * A user can see the different pages available in the navigation bar. These sections are named accordingly.
-         * A user can scroll down the homepage and see a short synopsis of each section of the website and is provided with another link to those pages.
-      3. As a user, I want to be able to access the website on desktop, tablet and mobile devices, to ensure high convenience.
-        * Users who are browsing on Chrome, Safari, Microsoft Edge or Firefox can use the website on desktop, tablet and mobile devices with full responsiveness.
-      4. As a user, I want to be able to easily access the social media accounts of "It's Puppy Time"
-         * A user can access the social media accounts of "It's Puppy Time" from the footer on every page. 
-         * The icons provide feedback to the user.
-      5. As a user, I want to gain valuable insight and knowledge on what to do to prepare for a new puppy
-         * A user can view information on how to prepare for a puppy by navigating to the "Preparation" page.
-      6. As a user, I want a list of items to buy for the puppy.
-         * A user see a list of items to buy for the puppy by navigating to the "Preparation" page.
-      7. As a user, I want to know what to do on the day I pick up the puppy
-         * A user can find information regarding the first day with the puppy on the "Puppy Arrival" page
-      8. As a user, I want to be able to access your social media accounts.
-         * A user can access the comapnies social media links via the footer in any of the pages that they find themselves on.
-    * ## Manual Testing 
-      * Navigation - Repeated steps on all pages.
-        * Click on logo to confirm that it navigates to landing page.
-        * Click on all navigation links to verify that they direct to the indicated page.
-        * Verify that the current page the user is on, is highlighted as active in the menu.
-        * Verify that the navigation menu shifts to from [hamburger](docs/hamburger.png) on screens of 991px and above. 
-      * Landing page
-        * Verify that the [scroll](docs/no-scroll.png) prompt works only on screens 991px and above.
-        * Verify that the link to make an appointment directs the user to the contact page.
-      * Portfolio
-        * Verify that the image carousel is functional, and clicks through the images.
-        * Verify that images are confined to the carousel and not overflowing it.
-      * Paint
-        * Verify that the stockist button pops open a modal.
-        * Verify that the modal contains a table with stockist information. 
-        * Verify that modal closes when the 'X' button is selected, or the user clicks on the screen anywhere outside of the modal window.
-      * Contact
-        * Verify that all elements that are set to required are working.
-        * Verify that valid email address is needed with relevant '@' included.
-        * Verify that 'Submit' button directs user to a success page.
-      * Form success
-        * Verify that navigation elements work the same as all other pages.
-        * Verify that the page automatically redirects the user to the services page after 10 seconds, as indicated.
-      * Footer - Repeated steps on all pages.
-        * Verify that the social media links open in a new tab.
-        * Verify that the email link directs the user to a custom 404 error page when selected.
-        * Verify that the 404 error page 'Return home' link brings the user back to the landing page.
-        * Verify that the phone number shown is dialled when selected.
-        * Verify that the website hyperlink directs the user back to the landing page.
 
 # Possible future developments.
