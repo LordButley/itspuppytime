@@ -1,8 +1,46 @@
 # It’s Puppy Time
 
-"It's Puppy Time" is a one-stop shop for all your puppy orientated questions. It is an information website targetted at prospective and new puppy parents. It aims to make welcoming a puppy into the family easy by providing answers to queries and concerns regarding what to do and what to expect. As a relatively new puppy owner myself, I found that although all the information regarding puppy care is online, it is dispersed through-out. Thus my recent experiences and my puppy Pickle became the inspiration behind the creation of an easy to use website dedicated to puppy care.
+"It's Puppy Time" is a one-stop shop for all your puppy orientated questions. It is an information website targetted at prospective and new puppy parents. It aims to make welcoming a puppy into the family easy by providing answers to queries and concerns regarding what to do and what to expect. As a relatively new puppy owner myself, I found that although all the information regarding puppy care is online, it is dispersed through-out. Thus my recent experiences and my puppy Pickle became the inspiration behind the creation of an easy to use website dedicated to puppy care. Infact Pickle makes an appearance on the website.
+
+You can visit the live website [here](https://lordbutley.github.io/itspuppytime/)
 
 ![Am I Responsive image of how the landing page looks across different browser sizes](assets/images/responsivescreens.JPG)
+
+# Contents
+- [It’s Puppy Time](#it-s-puppy-time)
+- [UX](#ux)
+  * [User Stories](#user-stories)
+  * [Project Goals](#project-goals)
+  * [Target Audience](#target-audience)
+  * [Structure](#structure)
+  * [Skeleton](#skeleton)
+  * [Surface](#surface)
+    + [Colour Palette](#colour-palette)
+    + [Typography](#typography)
+    + [Language / Tone](#language---tone)
+    + [Imagery](#imagery)
+    + [Layout](#layout)
+- [Features](#features)
+  * [Existing Features](#existing-features)
+    + [Header](#header)
+    + [Footer](#footer)
+    + [Vertial dividers](#vertial-dividers)
+    + [Home Page](#home-page)
+    + [Preparation / Arrival Day / Next Steps](#preparation---arrival-day---next-steps)
+  * [Features to implement in the future](#features-to-implement-in-the-future)
+  * [Technologies Used](#technologies-used)
+    + [Languages Used:](#languages-used-)
+    + [Frameworks, Libraries & Programs Used:](#frameworks--libraries---programs-used-)
+  * [Testing](#testing)
+  * [5. Deployment](#5-deployment)
+    + [Github Pages](#github-pages)
+      - [How I deployed my project to GitHub pages.](#how-i-deployed-my-project-to-github-pages)
+      - [Forking a GitHub Repository](#forking-a-github-repository)
+  * [Credits](#credits)
+    + [Media](#media)
+    + [Code](#code)
+    + [Content](#content)
+    + [Thanks](#thanks)
 
 # UX
 
@@ -198,6 +236,26 @@ Additional information around these steps can be found on the [GitHub Pages Help
 2. Locate your desired repository.
 3. Locate the fork option in the top-right hand corner of the repository page.    
 4. You will be asked where you want to fork it to.
+
+## Credits
+
+### Media
+- Images from [Pexels](https://www.pexels.com/search/puppies/) and [Unsplash](https://unsplash.com/) with the exception of one photograph which is of my dog Pickle
+
+### Code
+
+- All code written is my own.
+
+### Content
+
+- All content written is my own and based on my own experiences as a new puppy owner. I took inspiration from all the main dog websites such as [Bring Fido](https://www.bringfido.com/) and [The Kennel Club](https://www.thekennelclub.org.uk/)
+
+### Thanks
+
+- to tutor support at Code Institute. They (John) helped me keep working at my code when I was not sure what to do.
+- to my mentor who reviewed my project and gave feedback.
+- to my partner who has proof read everything and clicked on every link multiple times
+- to the inspiration of this website; my puppy Pickle.
 
 
 
