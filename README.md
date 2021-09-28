@@ -89,23 +89,21 @@ The pre-requisite for all images is that they needed to be of puppies! Once this
 
 As the website is solely for the dissemination of information, I believed it was better created across multiple pages to represent the clearly defined chapters. This would prevent the user from being overloaded by text whilst allowing easier navigation.
 
-## Features
+# Features
 
-### Existing Features
+## Existing Features
 
-### Universal Features
-
-#### Header
+### Header
 
 - Logo "It's Puppy Time" in large unmissable font sets the tone of the website.
 - Navigation bar - Allows users to quickly see what content is available on the website and then navigate where they want is a simple, familiar and intuitive way. The current page is highlighted whilst the links are underlined when the cursor is on top. 
 - Header is sticky on large devices but loses it's "stickiness" on smaller screens where you have less screen estate.
 
-#### Footer
+### Footer
 
 - The Footer contains links to the "It's Puppy Time" social media websites. These open to a new tab upon click. The footer is set to stick once it becomes fully visible on the page. This was created to prevent the footer floating in the middle of the page.
 
-#### Vertial dividers
+### Vertial dividers
 
 - Paw prints are used to separate all content vertically. There are additional paw prints throughout the homepage which are set to display:none which activate at smaller screens. These divide content into bitsize sections whilst keeping maintaining the style of the website.
 
@@ -124,48 +122,54 @@ As the website is solely for the dissemination of information, I believed it was
 - A container with an image on the left, a header and content on the right.
 - A container with an image on the right, a header and content on the left.
 
+## Features to implement in the future
+
+- Parallax scrolling video of a puppy running towards the camera to replace hero image.
+- Add more content regarding how to care for a dog and not just a puppy
+
 ## Technologies Used
 
  ### Languages Used:
 
- - HTML
+ - [HTML](https://en.wikipedia.org/wiki/HTML) - Programming language providing content and structure of website.
 
- - CSS
+ - [CSS](https://en.wikipedia.org/wiki/CSS) - Programming language providing styling of website.
 
  ### Frameworks, Libraries & Programs Used:
 
     
- 1. Git:
-    - Git was used for version control to commit and push code to Git and GitHub.
+ 1. [GitPod](https://gitpod.io/)
+    - IDE (Integrated Development Environment), for writing, editing and saving code.
 
- 2. GitHub:
-    - GitHub was used to store the project code.
+ 2. [GitHub](https://github.com/) 
+    - Remote hosting platform and code  repository.
 
- 3. Balsamiq:
+ 3. [Balsamiq](https://balsamiq.com/):
     - Balsamiq was used to create the initial designs for the pages on the site.
 
- 4. Favicon:
+ 4. [Favicon](https://favicon.io/):
     - Favicon used to implement a favicon on the browser tab
  
- 5. Google Fonts:
+ 5. [Google Fonts](https://fonts.google.com/):
     - Google fonts were used to import both the Hachi Maru and Poppins fonts that are used on the site.
 
-6. imagecolorpicker.com
+6. [Image Colour Picker](https://imagecolorpicker.com/)
     - Website which allows you to find the hexidecimal colour code of a colour in an image
 
-7. Pexels / Unsplash
+7. [Pexels](https://www.pexels.com/search/puppies/) / [Unsplash](https://unsplash.com/)
     - Copywrite free stock images used throughout website
 
-8. TinyJPG
+8. [TinyJPG](https://tinyjpg.com/)
     - TinyJPG used to create smaller versions of images enabling quickly load times.
 
-9. ami.responsivedesign.is
+9. [Am I Responsive?](http://ami.responsivedesign.is/)
     - Used to create 4 screen mock up image in Readme
 
-10. Google Developer Tools - including Lighthouse
+10. [Google Developer Tools](https://developers.google.com/web/tools) - including Lighthouse
     - used to constantly test the code and give feedback. 
 
-11. Responsinator 
+11. [Responsinator](https://www.responsinator.com/) 
+    - Used to check responsiveness across multiple screen sizes quickly.
 
 ## Testing
 
@@ -188,6 +192,12 @@ To host on GitHub pages you must follow these steps:
 7. Reload the page. Scroll back to 'GitHub Pages' section, where the new URL for the deployed site can be found.
 
 Additional information around these steps can be found on the [GitHub Pages Help Page](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site).
+
+#### Forking a GitHub Repository
+1. Login to GitHub.
+2. Locate your desired repository.
+3. Locate the fork option in the top-right hand corner of the repository page.    
+4. You will be asked where you want to fork it to.
 
 
 
