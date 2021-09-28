@@ -126,5 +126,47 @@ As the website is solely for the dissemination of information, I believed it was
 - A container with an image on the left, a header and content on the right.
 - A container with an image on the right, a header and content on the left.
 
+## Technologies Used
+
+ ### Languages Used:
+
+ - HTML
+
+ - CSS
+
+ ### Frameworks, Libraries & Programs Used:
+
+    
+ 1. Git:
+    - Git was used for version control to commit and push code to Git and GitHub.
+
+ 2. GitHub:
+    - GitHub was used to store the project code.
+
+ 3. Balsamiq:
+    - Balsamiq was used to create the initial designs for the pages on the site.
+
+ 4. Favicon:
+    - Favicon used to implement a favicon on the browser tab
+ 
+ 5. Google Fonts:
+    - Google fonts were used to import both the Hachi Maru and Poppins fonts that are used on the site.
+
+6. imagecolorpicker.com
+    - Website which allows you to find the hexidecimal colour code of a colour in an image
+
+7. Pexels / Unsplash
+    - Copywrite free stock images used throughout website
+
+8. TinyJPG
+    - TinyJPG used to create smaller versions of images enabling quickly load times.
+
+9. ami.responsivedesign.is
+    - Used to create 4 screen mock up image in Readme
+
+10. Google Developer Tools - including Lighthouse
+    - used to constantly test the code and give feedback. 
+
+
 
 # Possible future developments.
