@@ -107,7 +107,7 @@ The main colours for the website are a dark green and a light golden yellow. The
 
 - The golden yellow (#d3b86e) was chosen for the text as it gives a youthful happiness feel through-out. 
 
-Both of these colours were picked from the hero image for additional consistency using https://imagecolorpicker.com/.
+Both of these colours were picked from the hero image for additional consistency using [Image Color Picker](https://imagecolorpicker.com/).
 
 ### Typography
 
