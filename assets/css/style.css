@@ -142,6 +142,7 @@ h2 {
 }
 
 .chapter-tile {
+    box-sizing:border-box;
     width: 450px;
     height: 775px;
     background-color: #25311d;
