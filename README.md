@@ -179,6 +179,7 @@ As the website is solely for the dissemination of information, I believed it was
 - Styling follows on from the rest of the website
 - The header, footer and vertical dividers detailed above
 - Contains a form which contains the fields; first name, last name, email, dog breed and message.
+- Form submission landing page gives uses feedback. Contains all navigation functionality.
 
 ![Screen shot of contact us form from "It's Puppy Time"](assets/images/contact-us-form.JPG)
 
@@ -187,7 +188,6 @@ As the website is solely for the dissemination of information, I believed it was
 
 - Parallax scrolling video of a puppy running towards the camera to replace hero image.
 - Add more content regarding how to care for a dog and not just a puppy
-- Redirect page on successful post of information to server from the contact us form.
 
 ## Technologies Used
 
