@@ -137,21 +137,33 @@ As the website is solely for the dissemination of information, I believed it was
 - Navigation bar - Allows users to quickly see what content is available on the website and then navigate where they want is a simple, familiar and intuitive way. The current page is highlighted whilst the links are underlined when the cursor is on top. 
 - Header is sticky on large devices but loses it's "stickiness" on smaller screens where you have less screen estate.
 
+![Screen shot of the header of "It's Puppy Time"](assets/images/header-large-screen.JPG)
+
 ### Footer
 
 - The Footer contains links to the "It's Puppy Time" social media websites. These open to a new tab upon click. The footer is set to stick once it becomes fully visible on the page. This was created to prevent the footer floating in the middle of the page.
+
+![Screen shot of the footer of "It's Puppy Time"](assets/images/footer.JPG)
 
 ### Vertial dividers
 
 - Paw prints are used to separate all content vertically. There are additional paw prints throughout the homepage which are set to display:none which activate at smaller screens. These divide content into bitsize sections whilst keeping maintaining the style of the website.
 
+![Page break elements from "It's Puppy Time"](assets/images/pawprints.JPG)
+
 ### Home Page
 
-- Hero image - Large image with two puppies sitting centrally is used to give users an immediate feeling of happiness and also show instantly what the website is about. The colour identity of the website is established between the header and the hero photo.
+- Hero image - Large image with two puppies sitting centrally is used to give users an immediate feeling of happiness and also show instantly what the website is about. The colour identity of the website is established between the header and the hero photo. The colours from the header and footer were taken from the hero image
+
+![Screen shot of the Hero Image from "It's Puppy Time"](assets/images/hero-image-screenshot.JPG)
 
 - Page summary tiles - Tiles were used to represent each different page. These tiles contained an image, the section title and a short summary of what will be found on that page. Each tile contains a button to take you to the relevant page. The tiles have curved corners for a softer looker. The curved edges are removed for smaller viewports.
 
+![Screen shot of the page summary tiles from "It's Puppy Time"](assets/images/tile.JPG)
+
 - Contact tile - A smaller tile was chosen without an image as it is not the main purpose behind people visiting the website and so should not be the focus. This is in keeping with web norms. The tile has a button to take you to the contact us page. The tiles have curved corners for a softer looker. The curved edges are removed for smaller viewports.
+
+![Screen shot of the contact us tile from "It's Puppy Time"](assets/images/contact-us-tile.JPG)
 
 ### Preparation / Arrival Day / Next Steps
 
@@ -160,10 +172,22 @@ As the website is solely for the dissemination of information, I believed it was
 - A container with an image on the left, a header and content on the right.
 - A container with an image on the right, a header and content on the left.
 
+![Screen shot of content container from "It's Puppy Time"](assets/images/content-container.JPG)
+
+### Contact us
+
+- Styling follows on from the rest of the website
+- The header, footer and vertical dividers detailed above
+- Contains a form which contains the fields; first name, last name, email, dog breed and message.
+
+![Screen shot of contact us form from "It's Puppy Time"](assets/images/contact-us-form.JPG)
+
+
 ## Features to implement in the future
 
 - Parallax scrolling video of a puppy running towards the camera to replace hero image.
 - Add more content regarding how to care for a dog and not just a puppy
+- Redirect page on successful post of information to server from the contact us form.
 
 ## Technologies Used
 
