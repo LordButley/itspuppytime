@@ -9,8 +9,8 @@ You can visit the live website [here](https://lordbutley.github.io/itspuppytime/
 # Contents
 - [It’s Puppy Time](#it-s-puppy-time)
 - [UX](#ux)
+  * [Project Goals](#project-goals) 
   * [User Stories](#user-stories)
-  * [Project Goals](#project-goals)
   * [Target Audience](#target-audience)
   * [Structure](#structure)
   * [Skeleton](#skeleton)
@@ -44,25 +44,25 @@ You can visit the live website [here](https://lordbutley.github.io/itspuppytime/
 
 # UX
 
+## Project Goals
+
+* Create a user-friendly and accessible website showcasing puppies.
+* Create a familiar feeling website that leaves leaves a positive feeling.
+* Provide the user with useful information regarding puppy care.
+* Divide the information into well thought out sections allowing the user to quickly find what they need
+* Ensure the website is viewable across devices of all sizes.
+* To create a website that would be immediately useful when live but also has scope to be expanded.
+
 ## User Stories
 
 * As a user visitng the site for the first time, I want to be able to navigate the website intuitively.
 * As a user visiting the site for the first time, I want to know what kind of information is available and where to find it easily.
-* As a user, I want to be able to access the website on desktop, tablet and mobile devices, to ensure high convenience.
+* As a user, I want to be able to access the website on desktop, tablet and mobile devices to ensure convenience.
 * As a user, I want to be able to easily access the social media accounts of "It's Puppy Time" 
 * As a user, I want to gain valuable insight and knowledge on what to do to prepare for a new puppy
 * As a user, I want to know what to expect on the day I pick up the puppy
 * As a user, I want to know what to do in the weeks after getting a puppy
 * As a user, I want to be able to contact the website
-
-## Project Goals
-
-* Create a user-friendly and accessible website
-* Create a familiar feeling website that leaves leaves a positive feeling
-* Provide the user with useful information
-* Divide the information into well thought out sections allowing the user to quickly find what they need
-* Ensure the website is viewable across devices of all sizes.
-* To create a website that would be immediately useful when live but also has scope to be expanded.
 
 ## Target Audience
 
@@ -193,10 +193,12 @@ As the website is solely for the dissemination of information, I believed it was
 
  ### Languages Used:
 
- - [HTML](https://en.wikipedia.org/wiki/HTML) - Programming language providing content and structure of website.
+ 1. [HTML](https://en.wikipedia.org/wiki/HTML) 
+ - Programming language providing content and structure of website.
 
- - [CSS](https://en.wikipedia.org/wiki/CSS) - Programming language providing styling of website.
-
+ 2. [CSS](https://en.wikipedia.org/wiki/CSS) 
+ - Programming language providing styling of website.
+ 
  ### Frameworks, Libraries & Programs Used:
 
     
@@ -232,6 +234,10 @@ As the website is solely for the dissemination of information, I believed it was
 
 11. [Responsinator](https://www.responsinator.com/) 
     - Used to check responsiveness across multiple screen sizes quickly.
+
+12. [Font Awesome](https://fontawesome.com/)
+    - Used for the social media icons in the footer. 
+
 
 ## Testing
 

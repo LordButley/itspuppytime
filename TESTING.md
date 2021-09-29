@@ -91,7 +91,23 @@ In order to ensure that the website is fully responsive across screen sizes, I u
         * Check that 'Submit' button works as required.
         * Check that the border-radius is removed for smaller viewports
 
+## Bugs
 
+### Resolved Bugs
+
+1. - Issue - The footer initially would only stick permenently to bottom of the screen over the top of content or would rise up the screen and sit in the middle when there was not enough content to push it to the bottom.
+- Resolution - I used a page outer container to surround all my page, and an inner container which was everything minus the footer. I used position absolute and relative to then fix the footer's positioning
+
+2 - Issue - On Preparation/ Arrival Day/ Next Steps, the line break started and finished in the middle of the screen, matching the width of the container they were in.
+- Resolution - I split the container into two to allow the line break to still function as intended whilst also matching viewport.
+
+### Existing Bugs
+
+There are no known bugs at the point of deployment.
+
+### Testing deployed site.
+
+*   Additional testing was completed on the deployed website to ensure that it matched the final development version. All pages, links, sections and content were checked.
 
 
       
