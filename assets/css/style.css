@@ -33,10 +33,28 @@ h2 {
     margin: auto;
     margin: 1rem;
 }
-/* 
-p {
-    padding: 0 10px;
-} */
+
+.padding-left {
+    padding-left: 50px;
+}
+
+.padding-right {
+    padding-right: 50px;
+}
+
+.float-left {
+    float:left;
+}
+
+.float-right{
+    float:right;
+}
+
+.center {
+    margin:auto
+}
+
+/* Page containers for positioning footer */
 
 .outer-page {
     position: relative;
@@ -58,6 +76,7 @@ p {
     height: 3rem;
     position: fixed;
     top: 0;
+    z-index: 100;
 }
 
 #menu,
@@ -122,16 +141,17 @@ p {
     width: 100%;
 }
 
-.chapter-container-inside {
+.chapter-tile {
     width: 450px;
     height: 775px;
     background-color: #25311d;
     border-radius: 50px;
     text-align: center;
     margin: 5px;
+    padding: 5px;
 }
 
-.chapter-container-inside div {
+.chapter-tile div {
     height: 450px;
 }
 
@@ -143,6 +163,8 @@ p {
     overflow: hidden;
 }
 
+/* Home page tile for contact us container  */
+
 #contact-us-container {
     width: 450px;
     height: 225px;
@@ -150,9 +172,10 @@ p {
     border-radius: 50px;
     text-align: center;
     margin: auto;
+    padding: 5px;
 }
 
-/* Tile "click here" button */
+/* Tile "click here" / "submit" buttons */
 
 .button {
     text-decoration: none;
@@ -256,14 +279,6 @@ footer i:hover {
     list-style-type: circle;
 }
 
-.padding-left {
-    padding-left: 50px;
-}
-
-.padding-right {
-    padding-right: 50px;
-}
-
 .shopping-list {
     column-count: 2;
 }
@@ -280,48 +295,12 @@ footer i:hover {
     position: relative;
 }
 
-#left-column {
-    max-width: 450px;
-    width: 100%;
-    float: left;
-    padding: 0 1%;
-    box-sizing: border-box;
-}
-
-#right-column {
-    max-width: 450px;
-    width: 100%;
-    float: right;
-    padding: 0 1%;
-    box-sizing: border-box;
-}
-
-#center-column {
-    max-width: 450px;
-    width: 100%;
-    margin: auto;
-    padding: 0 1%;
-    box-sizing: border-box;
-}
-
-/* .column {
+.column {
     max-width: 450px;
     width: 100%;
     padding: 0 1%;
     box-sizing: border-box;
 }
-
-.float-left {
-    float:left;
-}
-
-.float-right{
-    float:right;
-}
-
-.center {
-    margin:auto
-} */
 
 .contact-us-form input {
     width: 100%;
@@ -402,11 +381,9 @@ textarea {
     }
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:916px) {
 
-    #left-column,
-    #right-column,
-    #center-column {
+    .column {
         float: none;
         margin: auto;
         max-width: none;
@@ -435,7 +412,7 @@ textarea {
 
 @media screen and (max-width: 450px) {
 
-    .chapter-container-inside,
+    .chapter-tile,
     #contact-us-container {
         width: 100%;
         margin: 0;
@@ -450,7 +427,7 @@ textarea {
         margin-top: 0;
     }
 
-    .chapter-container-inside {
+    .chapter-tile {
         border-radius: 0;
     }
 
