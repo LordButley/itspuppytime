@@ -1,6 +1,6 @@
 # It’s Puppy Time
 
-"It's Puppy Time" is a one-stop shop for all your puppy orientated questions. It is an information website targetted at prospective and new puppy parents. It aims to make welcoming a puppy into the family easy by providing answers to queries and concerns regarding what to do and what to expect. As a relatively new puppy owner myself, I found that although all the information regarding puppy care is online, it is dispersed through-out. Thus my recent experiences and my puppy Pickle became the inspiration behind the creation of an easy to use website dedicated to puppy care. Infact Pickle makes an appearance on the website.
+"It's Puppy Time" is a one-stop shop for all your puppy orientated questions. It is an information website targeted at prospective and new puppy parents. It aims to make welcoming a puppy into the family easy by providing answers to queries and concerns regarding what to do and what to expect. As a relatively new puppy owner myself, I found that although all the information regarding puppy care is online, it is dispersed through-out. Thus my recent experiences and my puppy Pickle became the inspiration behind the creation of an easy to use website dedicated to puppy care. In fact Pickle makes an appearance on the website.
 
 You can visit the live website [here](https://lordbutley.github.io/itspuppytime/)
 
