@@ -50,7 +50,7 @@ Mobile:
     * A user can find information regarding the first day with the puppy on the "Puppy Arrival" page
 7. As a user, I want to know what to do in the weeks after getting a puppy
     * A user can find information regarding the care of a puppy after the first day on the "Next Steps" page.
-    8.* As a user, I want to be able to contact the website
+8. As a user, I want to be able to contact the website
     * A user can contact the website on the contact us page by submitting the form after filling in their details and message.
 
 

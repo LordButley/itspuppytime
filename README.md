@@ -55,14 +55,14 @@ You can visit the live website [here](https://lordbutley.github.io/itspuppytime/
 
 ## User Stories
 
-* As a user visitng the site for the first time, I want to be able to navigate the website intuitively.
+* As a user visiting the site for the first time, I want to be able to navigate the website intuitively.
 * As a user visiting the site for the first time, I want to know what kind of information is available and where to find it easily.
 * As a user, I want to be able to access the website on desktop, tablet and mobile devices to ensure convenience.
-* As a user, I want to be able to easily access the social media accounts of "It's Puppy Time" 
-* As a user, I want to gain valuable insight and knowledge on what to do to prepare for a new puppy
-* As a user, I want to know what to expect on the day I pick up the puppy
-* As a user, I want to know what to do in the weeks after getting a puppy
-* As a user, I want to be able to contact the website
+* As a user, I want to be able to easily access the social media accounts of "It's Puppy Time". 
+* As a user, I want to gain valuable insight and knowledge on what to do to prepare for a new puppy.
+* As a user, I want to know what to expect on the day I pick up the puppy.
+* As a user, I want to know what to do in the weeks after getting a puppy.
+* As a user, I want to be able to contact the website.
 
 ## Target Audience
 
@@ -74,17 +74,17 @@ The target audience of this website is any person who :
 
 ## Structure
 
-As the website is going to be heavy in information and text, it is therefore important to devide it into key sections across a number of pages. This is so that users do not feel overwhelmed by the text volume and can find the information they want easily.
+As the website is going to be heavy in information and text, it is important to divide it into key sections across a number of pages. This is so that users do not feel overwhelmed by the text volume and can find the information they want easily.
 
-The section idea was to divide into before getting a puppy, on the day you get a puppy, and after with a homepage. This lead to the following sections:
+The section idea was to divide into before getting a puppy, on the day you get a puppy, and after, with a homepage and a contact us page. This lead to the following sections:
 
 - Home Page: This sets the tone for the whole website in terms of style. Simple to navigate and helps users move to the section of the website they want.
 
-- Preparation: Contains information regarding what to what to do before getting a puppy as well as what to buy
+- Preparation: Contains information regarding what to what to do before getting a puppy as well as what to buy.
 
 - Puppy Arrival: Contains information regarding how to care for a puppy on the first day you get it as well as the first night.
 
-- Next Steps: Contains information regarding what to do with a puppy in the weeks and months after getting it
+- Next Steps: Contains information regarding what to do with a puppy in the weeks and months after getting it.
 
 - Contact us: Gives users opportunity to provide feedback on the website or tell us their own experiences of getting a puppy.
 
@@ -113,7 +113,7 @@ Both of these colours were picked from the hero image for additional consistency
 
 I chose font Hachi Maru Pop for all titles. This is an informal and cute handwritten font that works well at larger sizes. It was chosen to represent the fun and playfulness of puppies.
 
-Using Googlefont popular pairings, I found Poppins. This was chosen as it works well with Hachi Maru Pop but has also looks more serious and is easier to read blocks of text.
+Using Googlefont popular pairings, I found Poppins. This was chosen as it works well with Hachi Maru Pop but has also looks more serious and is easier to read in blocks of text.
 
 ### Language / Tone
 
@@ -134,7 +134,7 @@ As the website is solely for the dissemination of information, I believed it was
 ### Header
 
 - Logo "It's Puppy Time" in large unmissable font sets the tone of the website.
-- Navigation bar - Allows users to quickly see what content is available on the website and then navigate where they want is a simple, familiar and intuitive way. The current page is highlighted whilst the links are underlined when the cursor is on top. 
+- Navigation bar - Allows users to quickly see what content is available on the website and then navigate where they want in a simple, familiar and intuitive way. The current page is highlighted whilst the links are underlined when the cursor is on top. 
 - Header is sticky on large devices but loses it's "stickiness" on smaller screens where you have less screen estate.
 
 ![Screen shot of the header of "It's Puppy Time"](assets/images/header-large-screen.JPG)
@@ -145,19 +145,19 @@ As the website is solely for the dissemination of information, I believed it was
 
 ![Screen shot of the footer of "It's Puppy Time"](assets/images/footer.JPG)
 
-### Vertial dividers
+### Horizontal dividers
 
-- Paw prints are used to separate all content vertically. There are additional paw prints throughout the homepage which are set to display:none which activate at smaller screens. These divide content into bitsize sections whilst keeping maintaining the style of the website.
+- Paw prints are used to separate all content horizontally. There are additional paw prints throughout the homepage which are set to display:none which activate at smaller screens. These divide content into bitsize sections whilst keeping maintaining the style of the website.
 
 ![Page break elements from "It's Puppy Time"](assets/images/pawprints.JPG)
 
 ### Home Page
 
-- Hero image - Large image with two puppies sitting centrally is used to give users an immediate feeling of happiness and also show instantly what the website is about. The colour identity of the website is established between the header and the hero photo. The colours from the header and footer were taken from the hero image
+- Hero image - Large image with two puppies sitting centrally is used to give users an immediate feeling of happiness and also show instantly what the website is about. The colour identity of the website is established between the header and the hero photo. The colours from the header and footer were taken from the hero image.
 
 ![Screen shot of the Hero Image from "It's Puppy Time"](assets/images/hero-image-screenshot.JPG)
 
-- Page summary tiles - Tiles were used to represent each different page. These tiles contained an image, the section title and a short summary of what will be found on that page. Each tile contains a button to take you to the relevant page. The tiles have curved corners for a softer looker. The curved edges are removed for smaller viewports.
+- Page summary tiles - Tiles were used to represent each different page. These tiles contain an image, the section title and a short summary of what will be found on that page. Each tile contains a button to take you to the relevant page. The tiles have curved corners for a softer looker. The curved edges are removed for smaller viewports.
 
 ![Screen shot of the page summary tiles from "It's Puppy Time"](assets/images/tile.JPG)
 
@@ -168,7 +168,7 @@ As the website is solely for the dissemination of information, I believed it was
 ### Preparation / Arrival Day / Next Steps
 
 - Each of these pages contains the same layout in keeping with good user experience.
-- The header, footer and vertical dividers detailed above
+- The header, footer and horizontal dividers detailed above.
 - A container with an image on the left, a header and content on the right.
 - A container with an image on the right, a header and content on the left.
 
@@ -176,10 +176,10 @@ As the website is solely for the dissemination of information, I believed it was
 
 ### Contact us
 
-- Styling follows on from the rest of the website
-- The header, footer and vertical dividers detailed above
+- Styling follows on from the rest of the website.
+- The header, footer and horizontal dividers detailed above.
 - Contains a form which contains the fields; first name, last name, email, dog breed and message.
-- Form submission landing page gives uses feedback. Contains all navigation functionality.
+- Form submission landing page gives users feedback. It also contains all navigation functionality.
 
 ![Screen shot of contact us form from "It's Puppy Time"](assets/images/contact-us-form.JPG)
 
@@ -212,13 +212,13 @@ As the website is solely for the dissemination of information, I believed it was
     - Balsamiq was used to create the initial designs for the pages on the site.
 
  4. [Favicon](https://favicon.io/):
-    - Favicon used to implement a favicon on the browser tab
+    - Favicon used to implement a favicon on the browser tab.
  
  5. [Google Fonts](https://fonts.google.com/):
     - Google fonts were used to import both the Hachi Maru and Poppins fonts that are used on the site.
 
 6. [Image Colour Picker](https://imagecolorpicker.com/)
-    - Website which allows you to find the hexidecimal colour code of a colour in an image
+    - Website which allows you to find the hexidecimal colour code of a colour in an image.
 
 7. [Pexels](https://www.pexels.com/search/puppies/) / [Unsplash](https://unsplash.com/)
     - Copywrite free stock images used throughout website
@@ -227,10 +227,10 @@ As the website is solely for the dissemination of information, I believed it was
     - TinyJPG used to create smaller versions of images enabling quickly load times.
 
 9. [Am I Responsive?](http://ami.responsivedesign.is/)
-    - Used to create 4 screen mock up image in Readme
+    - Used to create 4 screen mock up image in Readme.
 
 10. [Google Developer Tools](https://developers.google.com/web/tools) - including Lighthouse
-    - used to constantly test the code and give feedback. 
+    - Used to constantly test the code and give feedback. 
 
 11. [Responsinator](https://www.responsinator.com/) 
     - Used to check responsiveness across multiple screen sizes quickly.
